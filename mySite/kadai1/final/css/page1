@@ -1,0 +1,35 @@
+h1{
+    color: white;
+    text-align : center ;
+    background-color:black
+}
+
+h1#title{
+    color:fuchsia;
+    text-align: center ;
+    background-color: chartreuse
+    
+}
+h2#title{
+    color: khaki;
+}
+
+h2#neko{
+    color: lime;
+    background-color: deepskyblue;
+}
+
+h2{
+    background-color: darkorange;
+    text-align: center ;
+    color: yellow;
+}
+p{
+    display: inline-block;
+    font-size: 20px;
+    color: red;
+}
+body{
+    background-image: url("../images/haikei2.jpg");
+}
+

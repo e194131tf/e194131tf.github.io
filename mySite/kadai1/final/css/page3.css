@@ -1,0 +1,50 @@
+h1{
+    color: yellow;
+    text-align : center ;
+    background-color:tomato
+}
+
+h1#title{
+    color:fuchsia;
+    text-align: center ;
+    background-color: chartreuse
+    
+}
+h2#title{
+    color: khaki;
+}
+
+h2#neko{
+    color: lime;
+    background-color: deepskyblue;
+}
+
+h2{
+    background-color: darkorange;
+    text-align: center ;
+    color: indigo;
+}
+h2.top{
+    color: aqua
+}
+p{
+    display: inline-block;
+    font-size: 20px;
+    color:mediumblue;
+}
+p.movie{
+    color: black;
+    font-size: 20px;
+    
+}
+p.top{
+    color: black;
+    margin-left: 600px;
+}
+p.gazo{
+    margin-left: 90px;
+}
+body{
+    background-image: url("../images/haikei4.jpg");
+}
+

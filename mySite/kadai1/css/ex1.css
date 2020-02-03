@@ -1,0 +1,33 @@
+h1{
+    background-color: skyblue;
+    color: yellow;
+    text-align : center ;
+    
+    
+}
+h2{
+    background-color: greenyellow;
+    color: black;
+    text-align : center ;
+    
+}
+h3{
+    color: blue;
+    
+}
+p{
+    color: white;
+}
+body{
+    background-image : url("../images/haikei.jpeg");
+}
+
+table{
+    background-color: aqua;
+}
+
+ol{
+     background-image : url("../images/nya.jpg");
+}
+
+
