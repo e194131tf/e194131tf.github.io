@@ -1,0 +1,62 @@
+div.title{
+    width:900px;
+    height:50px;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Impact";
+    margin: 0px 200px
+}
+
+div.naka{
+    width:1000px;
+    height:800px;
+    text-align:right;
+    margin: 20px 150px;
+    font-size: 0px;
+}
+
+
+div.left{
+    width: 250px;
+    height:320px;
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin-right: 50px;
+    font-size: 30px;
+}
+div.right{
+    width:700px;
+    height:320px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    font-size: 40px;
+}
+
+div.gazo{
+    width: 700px;
+    height: 300px;
+    background-color: skyblue;
+}
+
+div.menu1{
+    width:250px;
+    height: 50px;
+    background-color: aqua;
+    font-size: 30px;
+    margin-bottom: 20px; 
+}
+div.moji{
+    width: 700px;
+    height: 20px;
+    color: yellow;
+    font-size: 15px;
+    text-align: left;
+    background-color: orangered; 
+}
+body{
+    background-image : url("../images/haikei.jpeg");
+}
